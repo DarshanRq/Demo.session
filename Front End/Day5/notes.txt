@@ -26,3 +26,6 @@ attributes of a table tags:
 4.align - used to align content horizantally (left,center,right)
 5.bgcolor - used to provide background color
 6.style - used to provide styling
+
+Pseudo Classes:
+--------------
