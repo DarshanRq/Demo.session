@@ -1,0 +1,28 @@
+Table Creation Tags:
+-------------------
+
+1.<table> tag- used to create table
+<thead> tag- used to create the header of the table
+<tbody> tag- used to create the body of the table
+<tfoot> tag- used to create the footer of the table.
+<tr> tag - used to create a row
+<th> tag- used to create a header cell
+<td> tag- used to create a data cell
+<caption>- used to create the caption of the table.
+
+Merging of a Cell:
+-----------------
+
+1.colspan attribute: used to merge the cell horizantally
+2.rowspan attribute: used to  merge the cell vertically
+
+
+attributes of a table tags:
+--------------------------
+
+1.border
+2.cellspacing - used to provide space between cell to cell
+3.cellpadding - used to provide space between cell to border
+4.align - used to align content horizantally (left,center,right)
+5.bgcolor - used to provide background color
+6.style - used to provide styling

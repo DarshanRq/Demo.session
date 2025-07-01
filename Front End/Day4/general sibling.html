@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General sibling</title>
+    <style>
+        div~p{
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+   <div>
+    This is a div tag
+    <p>this is a paragraph inside the div</p>
+   </div>
+   <span>this is a span tag along with the div</span>it won't select
+   <p>this is a paragraph along with the div</p>
+   <p>this is a paragraph along with the div</p>
+</body>
+</html>
